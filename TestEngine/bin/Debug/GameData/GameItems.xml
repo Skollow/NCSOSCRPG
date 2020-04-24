@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<GameItems>
+		<Weapons>
+			<Weapon ID="1001" Name="Pointy stick" Price="1" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="1"/>
+			<Weapon ID="1002" Name="Rusty sword" Price="5" MinimumDamage="1" MaximumDamage="3" ManaCost ="0" StaminaCost="2"/>
+			<Weapon ID="1501" Name="Snake fang" Price="0" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="0"/>
+			<Weapon ID="1502" Name="Rat claw" Price="0" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="0"/>
+			<Weapon ID="1503" Name="Spider fang" Price="0" MinimumDamage="1" MaximumDamage="4" ManaCost ="0" StaminaCost="0"/>
+		</Weapons>
+		<StatChangeItems>
+			<StatChangeItem ID="2001" Name="Small HP Potion" Price="5" HitPointsToHeal="4" ManaToHeal="0" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2101" Name="Small Mana Potion" Price="10" HitPointsToHeal="0" ManaToHeal="6" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2201" Name="Small Stamina Potion" Price="10" HitPointsToHeal="0" ManaToHeal="0" StaminaToHeal="5" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2901" Name="Life's Gift" Price="10" HitPointsToHeal="2" ManaToHeal="0" StaminaToHeal="0" MaxHitPointsToIncrease ="2"/>
+		</StatChangeItems>
+		<MiscellaneousItems>
+			<MiscellaneousItem ID="9001" Name="Snake fang" Price="1"/>
+		    <MiscellaneousItem ID="9002" Name="Snakeskin" Price="2"/>
+		    <MiscellaneousItem ID="9003" Name="Rat tail" Price="1"/>
+		    <MiscellaneousItem ID="9004" Name="Rat fur" Price="2"/>
+		    <MiscellaneousItem ID="9005" Name="Spider fang" Price="1"/>
+			<MiscellaneousItem ID="9006" Name="Spider silk" Price="2"/>
+			<MiscellaneousItem ID="9007" Name="Broken Spider Fang" Price="2"/>
+		</MiscellaneousItems>
+		<Spells>
+			<Spell ID="4001" Name="Magic Missile" Price="5" MinimumDamage="3" MaximumDamage="6" ManaCost ="2" StaminaCost="0"/>
+			<Spell ID="4002" Name="Fire Ball" Price="10" MinimumDamage="5" MaximumDamage="10" ManaCost ="4" StaminaCost="0"/>
+		</Spells>
+</GameItems>
