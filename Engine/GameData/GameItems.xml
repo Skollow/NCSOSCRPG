@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<GameItems>
+		<Weapons>
+			<Weapon ID="1001" Name="Pointy stick" Price="1" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="1"/>
+			<Weapon ID="1002" Name="Rusty sword" Price="4" MinimumDamage="1" MaximumDamage="3" ManaCost ="0" StaminaCost="2"/>
+			<Weapon ID="1003" Name="Battle axe" Price="15" MinimumDamage="3" MaximumDamage="7" ManaCost ="0" StaminaCost="5"/>
+			<Weapon ID="1004" Name="Great sword" Price="30" MinimumDamage="4" MaximumDamage="8" ManaCost ="0" StaminaCost="6"/>
+			<Weapon ID="1005" Name="Rapier" Price="15" MinimumDamage="3" MaximumDamage="5" ManaCost ="0" StaminaCost="2"/>
+			<Weapon ID="1006" Name="Holy great sword" Price="70" MinimumDamage="7" MaximumDamage="11" ManaCost ="0" StaminaCost="3"/>
+			<Weapon ID="1501" Name="Snake fang" Price="0" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="0"/>
+			<Weapon ID="1502" Name="Rat claw" Price="0" MinimumDamage="1" MaximumDamage="2" ManaCost ="0" StaminaCost="0"/>
+			<Weapon ID="1503" Name="Spider fang" Price="0" MinimumDamage="1" MaximumDamage="4" ManaCost ="0" StaminaCost="0"/>
+			<Weapon ID="1504" Name="Dragon fang" Price="50" MinimumDamage="6" MaximumDamage="10" ManaCost ="0" StaminaCost="0"/>
+		</Weapons>
+		<StatChangeItems>
+			<StatChangeItem ID="2001" Name="Small HP Potion" Price="10" HitPointsToHeal="4" ManaToHeal="0" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2002" Name="Big HP Potion" Price="30" HitPointsToHeal="10" ManaToHeal="0" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2101" Name="Small Mana Potion" Price="10" HitPointsToHeal="0" ManaToHeal="6" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2102" Name="Big Mana Potion" Price="30" HitPointsToHeal="0" ManaToHeal="12" StaminaToHeal="0" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2201" Name="Small Stamina Potion" Price="10" HitPointsToHeal="0" ManaToHeal="0" StaminaToHeal="5" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2202" Name="Big Stamina Potion" Price="30" HitPointsToHeal="0" ManaToHeal="0" StaminaToHeal="10" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2301" Name="Holy Potion" Price="100" HitPointsToHeal="10" ManaToHeal="10" StaminaToHeal="10" MaxHitPointsToIncrease ="0"/>
+			<StatChangeItem ID="2901" Name="Life's Gift" Price="20" HitPointsToHeal="2" ManaToHeal="0" StaminaToHeal="0" MaxHitPointsToIncrease ="2"/>
+		</StatChangeItems>
+		<MiscellaneousItems>
+			<MiscellaneousItem ID="9001" Name="Snake fang" Price="1"/>
+		    <MiscellaneousItem ID="9002" Name="Snakeskin" Price="2"/>
+		    <MiscellaneousItem ID="9003" Name="Rat tail" Price="1"/>
+		    <MiscellaneousItem ID="9004" Name="Rat fur" Price="2"/>
+		    <MiscellaneousItem ID="9005" Name="Spider fang" Price="1"/>
+			<MiscellaneousItem ID="9006" Name="Spider silk" Price="2"/>
+			<MiscellaneousItem ID="9007" Name="Dragon Fang" Price="20"/>
+		</MiscellaneousItems>
+		<Spells>
+			<Spell ID="4001" Name="Magic Missile" Price="5" MinimumDamage="3" MaximumDamage="6" ManaCost ="2" StaminaCost="0"/>
+			<Spell ID="4002" Name="Fire Ball" Price="40" MinimumDamage="10" MaximumDamage="16" ManaCost ="10" StaminaCost="0"/>
+			<Spell ID="4003" Name="Lightning Bolt" Price="20" MinimumDamage="4" MaximumDamage="8" ManaCost ="5" StaminaCost="0"/>
+			<Spell ID="4004" Name="Ice Spear" Price="30" MinimumDamage="7" MaximumDamage="12" ManaCost ="7" StaminaCost="0"/>
+			<Spell ID="4005" Name="Holy Smite" Price="60" MinimumDamage="8" MaximumDamage="14" ManaCost ="3" StaminaCost="0"/>
+		</Spells>
+</GameItems>
