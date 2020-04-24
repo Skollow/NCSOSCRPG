@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Traders>
+	<Trader ID="1">
+		<Name><![CDATA[Susan the Sword Smith]]></Name>
+		<InventoryItems>
+			<Item ID="1001" Quantity="1"/>
+			<Item ID="1002" Quantity="1"/>
+			<Item ID="1003" Quantity="1"/>
+			<Item ID="1004" Quantity="1"/>
+			<Item ID="1005" Quantity="1"/>
+		</InventoryItems>
+	</Trader>
+	<Trader ID="2">
+		<Name><![CDATA[Farmer Ted the Magician]]></Name>
+		<InventoryItems>
+			<Item ID="4002" Quantity="1"/>
+			<Item ID="4003" Quantity="1"/>
+			<Item ID="4004" Quantity="1"/>
+		</InventoryItems>
+	</Trader>
+	<Trader ID="3">
+		<Name><![CDATA[Pete the Herbalist]]></Name>
+		<InventoryItems>
+			<Item ID="2001" Quantity="4"/>
+			<Item ID="2101" Quantity="4"/>
+			<Item ID="2201" Quantity="4"/>
+		</InventoryItems>
+	</Trader>
+</Traders>
